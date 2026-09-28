@@ -7,7 +7,9 @@ Ce dépôt ne contient que les versions à télécharger. Le code source est pri
 
 ## Télécharger
 
-Dernière version : [Releases](https://github.com/Christophe16522/pdf-naka-release/releases/latest)
+Page de téléchargement (toujours la dernière version) : https://christophe16522.github.io/pdf-naka-release/
+
+Ou directement : [Releases](https://github.com/Christophe16522/pdf-naka-release/releases/latest)
 
 | Fichier | Usage |
 | --- | --- |
